@@ -1,4 +1,4 @@
-package com.javatechie.spring.boot.docker.demo;
+package com.spring.docker;
 
 
 import org.junit.jupiter.api.Test;
